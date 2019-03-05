@@ -1,0 +1,50 @@
+<form class="col s12 white" #registerUser="ngForm" (ngSubmit)="register(registerUser.value)">
+  <div class="row">
+    <div class="input-field col s6">
+      <input type="text" name="firstname" ngModel required>
+      <label data-error="Required field!">First Name</label>
+    </div>
+    <div class="input-field col s6">
+      <input type="text" name="lastname" ngModel required>
+      <label data-error="Required field!">Last Name</label>
+    </div>
+    <div class="input-field col s6">
+      <input type="text" name="dob" ngModel required>
+      <label data-error="Required field!">DOB</label>
+    </div>
+
+
+
+  </div>
+  <div class="row">
+    <div class="input-field col s6">
+      <input type="text" name="age" ngModel>
+      <label data-error="Required field!">Age</label>
+    </div>
+    <div class="input-field col s6">
+      <input type="text" name="location" ngModel required>
+      <label data-error="Required field!">Location</label>
+    </div>
+  </div>
+  <div class="row">
+      <div class="input-field col s6">
+          <input type="text" name="username" ngModel>
+          <label data-error="Required field!">Username</label>
+        </div>
+        <div class="input-field col s6">
+          <input type="text" name="password" ngModel required>
+          <label data-error="Required field!">Password</label>
+        </div>
+
+  </div>
+  <div class="row">
+    <div class="input-field col s6">
+      <input type="submit" class="btn-large btn-submit" value="Register">
+    </div>
+    <div class="input-field col s6">
+      <input type="button" class="btn-large btn-submit" value="login" (click)="loginPage()">
+      <!-- <button [disabled]="!userRegistrationForm.valid" class="btn-large btn-submit" (click)="loginPage()"
+        type="submit">Submit</button> -->
+    </div>
+  </div>
+</form>

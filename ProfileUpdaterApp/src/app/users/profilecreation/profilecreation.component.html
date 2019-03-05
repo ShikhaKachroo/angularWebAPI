@@ -1,0 +1,91 @@
+<!-- <h1>Hello {{username}}</h1>
+<h2>
+  You have successfully logged in using JWT.
+</h2>
+<br> 
+<input type="button" value="logout" (click)="logout()">-->
+<nav>
+  <div class="nav-wrapper">
+    <a href="#" class="brand-logo center">
+      <i class="material-icons">cloud</i>Dotnet Mob App</a>
+
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      Hello,{{userClaims.UserName}}
+      <li>
+
+        <a (click)="logout()">Logout</a>
+
+      </li>
+    </ul>
+  </div>
+  <div class="row">
+
+  </div>
+</nav>
+<div class="row" *ngIf="userClaims">
+  <div class="col s12 m7">
+    <div class="card">
+      <div class="card-content">
+        <div class="input-field col s6">
+          <span>Username :{{userClaims.Name}}</span>
+        </div>
+        <div class="input-field col s6">
+          <span>Age : {{userClaims.Age}}</span>
+        </div>
+        <div class="input-field col s6">
+          <span>DOB : {{userClaims.DOB}} </span>
+        </div>
+        <div class="input-field col s6">
+          <span>Location : {{userClaims.Location}}</span>
+        </div>
+        
+        <form #registerUser="ngForm" (ngSubmit)="submitProfile(registerUser.value)">
+
+          <div class="row">
+            <div class="input-field col s6">
+                <input type="hidden" name="User_ID" [ngModel]="userClaims.uiid" required>
+              <input type="text" name="skills" ngModel required>
+              <label data-error="Required field!">Skill</label>
+            </div>
+
+            <div class="input-field col s6">
+              <input type="text" name="experience" ngModel required>
+              <label data-error="Required field!">Experience</label>
+            </div>
+
+
+
+          </div>
+          <div class="row">
+            <div class="input-field col s6">
+              <input type="text" name="company" ngModel>
+              <label data-error="Required field!">Current Company</label>
+            </div>
+            <div class="input-field col s6">
+              <input type="text" name="certificate" ngModel required>
+              <label data-error="Required field!">Certification</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s6">
+              <input type="text" name="resume" ngModel>
+              <label data-error="Required field!">Resume</label>
+            </div>
+            
+          </div>
+
+          <div class="row">
+            <div class="input-field col s6">
+              <input type="submit" class="btn-large btn-submit"  value="Update">
+            </div>
+
+          </div>
+        </form>
+
+       
+      </div>
+    </div>
+
+
+  </div>
+</div>

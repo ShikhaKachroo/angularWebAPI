@@ -1,0 +1,16 @@
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\bin\Debug\BusinessEntity.dll
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\bin\Debug\BusinessEntity.pdb
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\bin\Debug\BusinessEntity.dll
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\bin\Debug\BusinessEntity.pdb
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

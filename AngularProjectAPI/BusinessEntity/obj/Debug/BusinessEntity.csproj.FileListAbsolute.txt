@@ -1,0 +1,11 @@
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\BusinessEntity\bin\Debug\BusinessEntity.dll
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\BusinessEntity\bin\Debug\BusinessEntity.pdb
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.dll
+c:\Users\raunak gupta\Documents\Visual Studio 2012\Projects\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.pdb
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\bin\Debug\BusinessEntity.dll
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\bin\Debug\BusinessEntity.pdb
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.csprojAssemblyReference.cache
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.dll
+E:\AngularJS\HCL\HCLProject\4March\AngularProjectAPI\BusinessEntity\obj\Debug\BusinessEntity.pdb
